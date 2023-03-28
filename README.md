@@ -1,8 +1,8 @@
-<h2 align="centre"> venom ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
+<h2 align="centre"> sʜɪᴠ ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
 
 ### 𝗦𝗛𝗜𝗩 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
-<p align="center"><a href="https://t.me/ll_SABKA_BHAI_KILLER_ll"><img src="https://telegra.ph/file/07142ff4ad2c0d220f541.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/ll_SABKA_BHAI_KILLER_ll"><img src="https://telegra.ph/file/9584b19633bf5b31faa12.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
